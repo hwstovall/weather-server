@@ -1,0 +1,5 @@
+name: 'CloudFormation Deploy Action'
+description: 'Deploy AWS CloudFormation Stack'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

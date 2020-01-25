@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "zip": "zip -r dark-sky-api.zip index.js node_modules"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "node-fetch": "^2.6.0"
+  }
+}

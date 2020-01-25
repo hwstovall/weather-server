@@ -1,0 +1,5 @@
+name: 'S3 Upload Action'
+description: 'Upload application to AWS S3'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
